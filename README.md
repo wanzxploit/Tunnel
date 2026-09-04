@@ -1,5 +1,9 @@
 # Tunnel
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wanzxploit/Tunnel/refs/heads/main/thumbnail.png" alt="Tunnel">
+</p>
+
 **An all-in-one public tunnel launcher for the terminal.**
 
 `Tunnel` exposes a local server to the public internet through four tunnel
